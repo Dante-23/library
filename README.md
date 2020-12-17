@@ -1,12 +1,5 @@
 # library
 
-Many programmers do not use C language because of less number of libraries.
-C do not have inbuilt string library which makes string manipulation quite difficult.
-Using my knowledge of Data structures and algorithms, I have created this string library which will decrease the complexity of string manipulation in C. 
-The library functions here are like java functions.
-In case you find a bug, please report.
-
-
 How to use the library:-
 (1) First include the library by writing the following statement:-
     If needed, one can create a header file and use it.
